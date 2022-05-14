@@ -1,0 +1,8 @@
+:root {
+    --main-color : #c06025;
+    --navi-background-color : #242d3c;
+    --font-color : rgb(235, 235, 235);
+    --height-side-bar: 400px;
+    --width-side-bar: 200px;
+    --position-side-bar-y-axis: -400px;
+}
